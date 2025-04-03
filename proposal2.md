@@ -24,7 +24,7 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-The core function of the game, reeling in a fish and having a glosssaryy feature that desribes the fish. 
+The core function of the game, reeling in a fish and having a glossary feature that desribes the fish. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
